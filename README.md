@@ -28,7 +28,7 @@ After cleaning the data and building an interactive dashboard with drill-down ca
  * The Attack Profile: If an attack occurs, the data shows it is most likely to happen in the Afternoon, the White Shark is the most common species involved, and the most frequently injured body part is the Leg.
 
 Dashboard Preview
-
+https://github.com/lolojaja038-ai/Global-Shark-Attack-Analysis/blob/main/Shark%20Attack%20Trends%20(1900-2017)%20Dashboard.png 
    
 Tools Used
  * Microsoft Power BI (Data Visualization, Drill-downs, Slicers)
